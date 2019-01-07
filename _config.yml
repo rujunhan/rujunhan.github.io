@@ -22,9 +22,9 @@ title: Rujun (RJ) Han
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  Publications: "publications"
-  CV: "cv"
+# navbar-links:
+#  Publications: "publications"
+#  CV: "cv"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
