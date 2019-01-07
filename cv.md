@@ -1,6 +1,4 @@
-## Curriculum Vitae
 A detailed version of my CV can be found [here](https://drive.google.com/file/d/1TZFwIWGsDN-o2VStVHz2mQGvdrt5pD18/view?usp=sharing).
-
 
 ### Education
 - **Ph.D. in Computer Science**,   _University of Southern California_,   08/2018 -- present <br/>
