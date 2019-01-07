@@ -9,7 +9,7 @@ A detailed version of my CV can be found [here](https://drive.google.com/file/d/
 
 
 ### Work Experience
-- **Graduate Researcher**,     _New York University_,         08/2017 -- 08/2018 <\br>
+- **Graduate Researcher**,     _New York University_,         08/2017 -- 08/2018 <br/>
 Conducted applied machine learning and NLP research with Prof. Kyunghyun Cho, Prof. Arthur Spirling and Prof. Michael Gill at NYU Center for Data Science and Prof. Alyssa Wise at NYU Steinhardt School of Education.
 
 - **Senior Associate, Data Scientist**, _Commonwealth Bank of Australia_, 05/2017 -- 06/2018
