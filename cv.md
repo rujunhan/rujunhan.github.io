@@ -3,7 +3,7 @@ A detailed version of my CV can be found [here](https://drive.google.com/file/d/
 
 
 ### Education
-- **Ph.D. in Computer Science**,   _University of Southern California_,   08/2018 -- present
+- **Ph.D. in Computer Science**,   _University of Southern California_,   08/2018 -- present <br/>
 - **M.Sc. in Data Science**, _New York University_, 09/2015 -- 05/2018
 - **B.A in Economics**, _Hamilton College_, 08/2010 -- 12/2014
 
@@ -16,7 +16,7 @@ Conducted applied machine learning and NLP research with Prof. Kyunghyun Cho, Pr
 Built the bank's first machine learning model and big data pipeline to assess commercial lending risk, i.e. default rate of small business loans.
 
 
-- **Senior Research Analyst**,   _Federal Reserve Bank of New York_,   03/2015 -- 04/2017
+- **Senior Research Analyst**,   _Federal Reserve Bank of New York_,   03/2015 -- 04/2017 <br/>
 Researched and applied a wide range of statistical tools such as hidden factor model and time-series analysis to predict economic and financial indicators. Some projects I contributed to substantially have been published on NY Fed's website: [Nowcast](https://www.newyorkfed.org/research/policy/nowcast) and [UIG](https://www.newyorkfed.org/research/policy/underlying-inflation-gauge)
 
 
