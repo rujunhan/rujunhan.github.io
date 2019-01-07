@@ -1,4 +1,3 @@
-## Pulications
 
 _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._
 **Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho.
