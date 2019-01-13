@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p>I'm a first-year CS Ph.D. student at University of Southern California, co-advised by Prof. Nanyun Peng 
+		(<a href="https://violetpeng.github.io/group.html">Plus Lab</a>) and 
+		Prof. Aram Galstyan at the Information Sciences Institute. </p>
+	<p> My research objective is to create innovative tools to solve a variety of interesting and challenging 
+		problems in our society. My current work focuses on leveraging deep structured models to extract event relations within 
+		large amount of text data.</p>
+	<p> Prior to joining USC, I worked at Federal Reserve and Commonwealth Bank of Australia as a statistical researcher 
+		and a data scientist for more than three years. </p>
+	<p> While working full-time, I obtained my Masters' degree in data science at NYU CDS where I had the privilege 
+		to collaborate with brilliant researchers such as Kyunghyun Cho, Michael Gill and Arthur Spirling. </p>
+	<p> Outside of machine learning and NLP research, I enjoy playing all kinds of sports games. I am a big fan of L.A. Lakers 
+		and Houston Rockets. </p>
