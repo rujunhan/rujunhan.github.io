@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About me
+title: ''
 published: true
 ---
 
 I'm a first-year CS Ph.D. student at University of Southern California, co-advised by Prof. Nanyun Peng ([Plus Lab](https://violetpeng.github.io/group.html)) and Prof. Aram Galstyan at the Information Sciences Institute.
 
-My research objective is to create innovative tools to solve a variety of interesting and challenging problems in our society. My current work focuses on leveraging deep structured models to extract event relations within large amount of text data.
+My research objective is to create innovative tools to solve a variety of interesting and challenging problems in our society. My current work focuses on leveraging cutting-edge machine learning models to extract event relations within large amount of text data.
 
 Prior to joining USC, I worked at Federal Reserve and Commonwealth Bank of Australia as a statistical researcher and a data scientist for more than three years.
 
