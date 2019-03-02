@@ -4,5 +4,4 @@ _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http:
 _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
 _Deep Structured Neural Network for Event Temporal Relation Extraction._ <br/>
-**Rujun Han**, Aram Galstyan, Ralph Weischedel, Nanyun Peng.
-Submitted to **NAACL 2019**
+**Rujun Han**, Aram Galstyan, Ralph Weischedel, Nanyun Peng. _In submission to **ACL 2019**_
