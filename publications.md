@@ -3,5 +3,5 @@ _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http:
 **Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. <br/>
 _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
-_Deep Structured Neural Network for Event Temporal Relation Extraction._ <br/>
-**Rujun Han**, Aram Galstyan, Ralph Weischedel, Nanyun Peng. _In submission to **ACL 2019**_
+_Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding._ <br/>
+**Rujun Han**, Mengyue Liang, Bashar Alhafni. _To appear on **NAACL 2019 Workshop on Narrarive Understanding**_
