@@ -1,5 +1,3 @@
-A detailed version of my CV can be found [here](https://drive.google.com/file/d/1TZFwIWGsDN-o2VStVHz2mQGvdrt5pD18/view?usp=sharing).
-
 ### Education
 - **Ph.D. in Computer Science**,   _University of Southern California_,   08/2018 -- present <br/>
 - **M.Sc. in Data Science**, _New York University_, 09/2015 -- 05/2018
@@ -7,6 +5,9 @@ A detailed version of my CV can be found [here](https://drive.google.com/file/d/
 
 
 ### Work Experience
+- **Incoming Senior Data Scientist Intern**,     _IBM CDO_,         05/2019 -- <br/>
+Will help IBM CDO team build Enterprise AI platform with my NLP and ML expertise.
+
 - **Graduate Researcher**,     _New York University_,         08/2017 -- 08/2018 <br/>
 Conducted applied machine learning and NLP research with Prof. Kyunghyun Cho, Prof. Arthur Spirling and Prof. Michael Gill at NYU Center for Data Science and Prof. Alyssa Wise at NYU Steinhardt School of Education.
 
