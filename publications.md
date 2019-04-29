@@ -3,6 +3,6 @@ _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http:
 **Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. <br/>
 _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP**)
 
-_Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding._ <br/>
+_[Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding](https://arxiv.org/abs/1904.11942)._ <br/>
 **Rujun Han**, Mengyue Liang, Bashar Alhafni and Nanyun Peng. <br/>
 _To appear on **NAACL 2019 Workshop on Narrative Understanding**_
