@@ -18,4 +18,4 @@ Built the bank's first machine learning model and big data pipeline to assess co
 
 
 - **Senior Research Analyst**,   _Federal Reserve Bank of New York_,   03/2015 -- 04/2017 <br/>
-Researched and applied a wide range of statistical tools such as hidden factor model and time-series analysis to predict economic and financial indicators. Some projects I contributed to substantially have been published on NY Fed's website: [Nowcast](https://www.newyorkfed.org/research/policy/nowcast) and [UIG](https://www.newyorkfed.org/research/policy/underlying-inflation-gauge)
+Researched and applied a wide range of statistical tools such as hidden factor model and time-series analysis to predict economic and financial indicators. Some projects I contributed to substantially have been published on NY Fed's website: [Nowcast](https://www.newyorkfed.org/research/policy/nowcast), [UIG](https://www.newyorkfed.org/research/policy/underlying-inflation-gauge) and others regarding [Monetary Policy](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr885.pdf)
