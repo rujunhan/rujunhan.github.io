@@ -1,4 +1,4 @@
-_[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction]_ <br/>
+_Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction_ <br/>
 **Rujun Han**, Qiang Ning and Nanyun Peng. <br/>
 _To appear on **Proceedings of EMNLP 2019**_
 
