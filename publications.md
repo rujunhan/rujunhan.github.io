@@ -1,6 +1,6 @@
 _Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction_ <br/>
 **Rujun Han**, Qiang Ning and Nanyun Peng. <br/>
-_To appear on **Proceedings of EMNLP 2019**_
+_To appear in the **Proceedings of EMNLP 2019**_
 
 _[Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding](https://arxiv.org/abs/1904.11942)._ <br/>
 **Rujun Han**, Mengyue Liang, Bashar Alhafni and Nanyun Peng. <br/>
