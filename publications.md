@@ -8,4 +8,4 @@
 **Rujun Han**, Mengyue Liang, Bashar Alhafni and Nanyun Peng. _**NAACL 2019 Workshop on Narrative Understanding**_ <br/>
 
 4. _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ <br/>
-**Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. _**EMNLP 2018**_, acceptance rate (Short): 23.2% <br/>
+**Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. _**EMNLP 2018**_, acceptance rate (short): 23.2% <br/>
