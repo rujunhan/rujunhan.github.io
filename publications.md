@@ -1,5 +1,5 @@
 1. _Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction_ <br/>
-**Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_, <sup>Acceptance Rate: 23.8%<sup/> <br/>
+**Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_, Acceptance Rate: 23.8% <br/>
 
 2. _Deep Structured Neural Network for Event Temporal Relation Extraction_ <br/>
 **Rujun Han**, I-Hung Hsu, Mu Yang, Aram Galstyan, Ralph Weischedel and Nanyun Peng. _**CoNLL 2019**_, Acceptance Rate: 22.7%<br/>
