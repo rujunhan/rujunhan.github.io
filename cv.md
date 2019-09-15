@@ -8,7 +8,7 @@ Here is a brief summary of my CV. You may contact me via LinkedIn for a detailed
 
 ### Work Experience
 - **Senior Data Scientist Intern**,     _IBM Corporation_,         05/2019 -- 08/2019 <br/>
-Built an ticket categorization pipeline using ML and NLP tools to improve the efficiency of IBM internal customer support system.
+Built a ticket categorization pipeline and resolution recommendation model using ML and NLP tools to improve the efficiency of IBM internal customer support system.
 
 - **Graduate Researcher**,     _New York University_,         08/2017 -- 08/2018 <br/>
 Conducted applied machine learning and NLP research with Prof. Kyunghyun Cho, Prof. Arthur Spirling and Prof. Michael Gill at NYU Center for Data Science and Prof. Alyssa Wise at NYU Steinhardt School of Education.
