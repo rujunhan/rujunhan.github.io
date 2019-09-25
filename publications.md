@@ -1,7 +1,7 @@
 1. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://arxiv.org/pdf/1909.05360.pdf)_ <br/>
 **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_ [acceptance rate: 23.8%] <br/>
 
-2. _Deep Structured Neural Network for Event Temporal Relation Extraction_ <br/>
+2. _[Deep Structured Neural Network for Event Temporal Relation Extraction](https://arxiv.org/abs/1909.10094)_ <br/>
 **Rujun Han**, I-Hung Hsu, Mu Yang, Aram Galstyan, Ralph Weischedel and Nanyun Peng. _**CoNLL 2019**_ [acceptance rate: 22.7%]<br/>
 
 3. _[Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding](https://arxiv.org/abs/1904.11942)_ <br/>
