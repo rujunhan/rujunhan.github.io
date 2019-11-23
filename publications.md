@@ -1,4 +1,4 @@
-1. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://arxiv.org/pdf/1909.05360.pdf)_ <span style="color:black">[[Code]](https://github.com/rujunhan/EMNLP-2019) </span> <br/> 
+1. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://arxiv.org/pdf/1909.05360.pdf)_ [<span style="color:black">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
 **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_ [acceptance rate: 23.8%] <br/>
 
 2. _[Deep Structured Neural Network for Event Temporal Relation Extraction](https://arxiv.org/abs/1909.10094)_ <br/>
