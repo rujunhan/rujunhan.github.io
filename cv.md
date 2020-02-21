@@ -7,6 +7,8 @@ Here is a brief summary of my CV. You may contact me via LinkedIn for a detailed
 
 
 ### Work Experience
+- **Incoming Applied Scientist Intern**,     _Amazon Alexa_,         05/2020 --  <br/>
+
 - **Senior Data Scientist Intern**,     _IBM Corporation_,         05/2019 -- 08/2019 <br/>
 Built a ticket categorization pipeline and resolution recommendation model using ML and NLP tools to improve the efficiency of IBM internal customer support system.
 
