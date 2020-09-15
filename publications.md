@@ -1,6 +1,9 @@
-1. Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. **Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ (to appear) <br/>
-2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ (to appear) <br/>
-3. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_ <br/>
+1. Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. 
+**Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ (to appear) <br/>
+2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ 
+Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ (to appear) <br/>
+3. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ 
+Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_ <br/>
 4. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://www.aclweb.org/anthology/D19-1041)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
 **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_ [acceptance rate: 23.8%] <br/>
 5. _[Deep Structured Neural Network for Event Temporal Relation Extraction](https://www.aclweb.org/anthology/K19-1062)_ <br/>
