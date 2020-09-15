@@ -4,7 +4,7 @@ title: ''
 published: true
 ---
 
-I'm a CS Ph.D. student at University of Southern California, advised by Prof. Nanyun Peng ([Plus Lab](https://vnpeng.net/)) and Prof. Aram Galstyan at the Information Sciences Institute _[ISI](https://www.isi.edu/people/galstyan/about)_.
+I'm a CS Ph.D. student at University of Southern California, advised by Prof. Nanyun Peng ([Plus Lab](https://vnpeng.net/)) and Prof. Aram Galstyan at the Information Sciences Institute (_[ISI](https://www.isi.edu/people/galstyan/about)_).
 
 I am broadly interested in a variety of machine learning and NLP problems. My current work focuses on leveraging cutting-edge machine learning models to extract events and understnd their relations within large amount of text data.
 
