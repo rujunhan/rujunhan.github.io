@@ -1,6 +1,6 @@
-1. Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. **Rujun Han**, Qiang Ning and Nanyun Peng. To Appear _**EMNLP 2020**_ <br/>
+1. Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2020**_ )(to appear) <br/>
 
-2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. To Appear _**EMNLP 2020**_ <br/>
+2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ (to appear) <br/>
 
 3. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_ <br/>
 
