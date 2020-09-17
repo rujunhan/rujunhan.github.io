@@ -1,4 +1,4 @@
-1. _[Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction.] (https://arxiv.org/abs/2009.07373)_ <br/>
+1. _[Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction](https://arxiv.org/abs/2009.07373)_ <br/>
 **Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ (to appear) [acceptance rate: 24.2%]
 
 2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ <br/>
