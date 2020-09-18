@@ -1,8 +1,8 @@
 1. _[Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction](https://arxiv.org/abs/2009.07373)_ <br/>
-**Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ (to appear) [acceptance rate: 24.2%]
+**Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ (to appear) [acceptance rate: 22.4%]
 
 2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ <br/>
-Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ (to appear) [acceptance rate: 24.2%]
+Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ (to appear) [acceptance rate: 22.4%]
 
 3. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ <br/>
 Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_
