@@ -4,7 +4,7 @@ Here is a brief summary of my CV. You may contact me via LinkedIn for a detailed
 - **Ph.D. in Computer Science**,   _University of Southern California_,   08/2018 -- present <br/>
 - **M.Sc. in Computer Science**,   _University of Southern California_,   08/2018 -- 12/2020 <br/>
 - **M.Sc. in Data Science**, _New York University_, 09/2015 -- 05/2018
-- **B.A in Economics, Math**, _Hamilton College_, 08/2010 -- 12/2014
+- **B.A in Economics and Math**, _Hamilton College_, 08/2010 -- 12/2014
 
 
 ### Work Experience
