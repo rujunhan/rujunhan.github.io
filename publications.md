@@ -1,23 +1,23 @@
-1. _[Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction.](https://arxiv.org/abs/2009.07373)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2020) <br/>
-**Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ [acceptance rate: 22.4%]
-
-2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/TORQUE) <br/>
-Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ [acceptance rate: 22.4%]
-
-3. Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference. <br/>
+1. _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
 Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping, Wei Wang. _**AAAI 2021**_ (to appear) [acceptance rate: 21.0%]
 
-3. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ <br/>
+2. _[Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction.](https://arxiv.org/abs/2009.07373)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2020) <br/>
+**Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ [acceptance rate: 22.4%]
+
+3. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/TORQUE) <br/>
+Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ [acceptance rate: 22.4%]
+
+4. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ <br/>
 Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_
 
-4. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://www.aclweb.org/anthology/D19-1041)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
+5. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://www.aclweb.org/anthology/D19-1041)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
 **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_ [acceptance rate: 23.8%]
 
-5. _[Deep Structured Neural Network for Event Temporal Relation Extraction](https://www.aclweb.org/anthology/K19-1062)_ <br/>
+6. _[Deep Structured Neural Network for Event Temporal Relation Extraction](https://www.aclweb.org/anthology/K19-1062)_ <br/>
 **Rujun Han**, I-Hung Hsu, Mu Yang, Aram Galstyan, Ralph Weischedel and Nanyun Peng. _**CoNLL 2019**_ [acceptance rate: 22.7%]
 
-6. _[Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding](https://arxiv.org/abs/1904.11942)_ <br/>
+7. _[Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding](https://arxiv.org/abs/1904.11942)_ <br/>
 **Rujun Han**, Mengyue Liang, Bashar Alhafni and Nanyun Peng. _**NAACL 2019 Workshop on Narrative Understanding**_
 
-7. _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
+8. _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
 **Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. _**EMNLP 2018**_ [acceptance rate (short): 23.2%]
