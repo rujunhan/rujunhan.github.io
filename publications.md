@@ -2,6 +2,7 @@
 
 1. _[DEER: A Data Efficient Language Model for Event Temporal Reasoning.](https://arxiv.org/abs/2012.15283)_ <br/>
 **Rujun Han**, Xiang Ren and Nanyun Peng.
+
 2. _[EventPlus: A Temporal Event Understanding Pipeline.](https://arxiv.org/abs/2101.04922)_ <br/>
 Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, **Rujun Han**, Nanyun Peng
 
@@ -14,7 +15,7 @@ Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, 
 **Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL 2021**_ (to appear)
 
 2. _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
-Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping, Wei Wang. _**AAAI 2021**_ (to appear) [acceptance rate: 21.0%]
+Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang. _**AAAI 2021**_ (to appear) [acceptance rate: 21.0%]
 
 <h3>2020</h3>
 
@@ -22,10 +23,10 @@ Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun
 **Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ [acceptance rate: 22.4%]
 
 2. _[TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions.](https://arxiv.org/abs/2005.00242)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/TORQUE) <br/>
-Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP 2020**_ [acceptance rate: 22.4%]
+Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner and Dan Roth. _**EMNLP 2020**_ [acceptance rate: 22.4%]
 
 3. _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections.](https://repository.isls.org/handle/1/6650)_ <br/>
-Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_
+Alyssa Wise, Sameen Reza and **Rujun Han**. _**ICLS 2020**_
 
 <h3>2019</h3>
 
