@@ -7,7 +7,9 @@ Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, 
 
 
 <h2>Publications</h2>
+
 <h3>2021</h3>
+
 1. Modeling Context in Answer Sentence Selection Systems on a Latency Budget. <br/>
 **Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL 2021**_ (to appear)
 
@@ -15,6 +17,7 @@ Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, 
 Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping, Wei Wang. _**AAAI 2021**_ (to appear) [acceptance rate: 21.0%]
 
 <h3>2020</h3>
+
 1. _[Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction.](https://arxiv.org/abs/2009.07373)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2020) <br/>
 **Rujun Han**, Yichao Zhou and Nanyun Peng. _**EMNLP 2020**_ [acceptance rate: 22.4%]
 
@@ -25,6 +28,7 @@ Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner, Dan Roth. _**EMNLP
 Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_
 
 <h3>2019</h3>
+
 1. _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://www.aclweb.org/anthology/D19-1041)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
 **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP 2019**_ [acceptance rate: 23.8%]
 
@@ -35,5 +39,6 @@ Alyssa Wise, Sameen Reza, **Rujun Han**. _**ICLS 2020**_
 **Rujun Han**, Mengyue Liang, Bashar Alhafni and Nanyun Peng. _**NAACL 2019 Workshop on Narrative Understanding**_
 
 <h3>2018</h3>
+
 1. _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
 **Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. _**EMNLP 2018**_ [acceptance rate (short): 23.2%]
