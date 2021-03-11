@@ -15,7 +15,7 @@ Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, 
 **Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL 2021**_ (to appear)
 
 2. _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
-Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang. _**AAAI 2021**_ (to appear) [acceptance rate: 21.0%]
+Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang. _**AAAI 2021**_ [acceptance rate: 21.0%]
 
 <h3>2020</h3>
 
