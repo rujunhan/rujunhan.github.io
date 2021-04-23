@@ -3,6 +3,8 @@
 1. _[DEER: A Data Efficient Language Model for Event Temporal Reasoning.](https://arxiv.org/abs/2012.15283)_ <br/>
 **Rujun Han**, Xiang Ren and Nanyun Peng.
 
+2. _[ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning](https://arxiv.org/pdf/2104.08350.pdf)_ <br/>
+**Rujun Han**, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth and Nanyun Peng.
 
 <h2>Publications</h2>
 
