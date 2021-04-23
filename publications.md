@@ -14,7 +14,7 @@
 Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, **Rujun Han**, Nanyun Peng. _**NAACL 2021 Demostrations Track**_
 
 2. _[Modeling Context in Answer Sentence Selection Systems on a Latency Budget.](https://arxiv.org/abs/2101.12093)_ <br/>
-**Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL 2021**_ (to appear)
+**Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL 2021**_
 
 3. _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
 Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang. _**AAAI 2021**_ [acceptance rate: 21.0%]
