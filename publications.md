@@ -3,10 +3,10 @@
 <h3>2021</h3>
 
 1. _[ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning.](https://arxiv.org/pdf/2104.08350.pdf)_ <br/>
-**Rujun Han**, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth and Nanyun Peng. _**EMNLP 2021**_
+**Rujun Han**, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth and Nanyun Peng. _**EMNLP 2021**_ (to appear)
 
 2. _[ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning.](https://arxiv.org/abs/2012.15283)_ <br/>
-**Rujun Han**, Xiang Ren and Nanyun Peng. _**EMNLP 2021**_
+**Rujun Han**, Xiang Ren and Nanyun Peng. _**EMNLP 2021**_ (to appear)
 
 3. _[EventPlus: A Temporal Event Understanding Pipeline.](https://arxiv.org/abs/2101.04922)_ <br/>
 Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, **Rujun Han**, Nanyun Peng. _**NAACL 2021 Demostrations Track**_
