@@ -1,22 +1,20 @@
-<h2>Preprints</h2>
-
-1. _[DEER: A Data Efficient Language Model for Event Temporal Reasoning.](https://arxiv.org/abs/2012.15283)_ <br/>
-**Rujun Han**, Xiang Ren and Nanyun Peng.
-
-2. _[ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning.](https://arxiv.org/pdf/2104.08350.pdf)_ <br/>
-**Rujun Han**, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth and Nanyun Peng.
-
 <h2>Publications</h2>
 
 <h3>2021</h3>
 
-1. _[EventPlus: A Temporal Event Understanding Pipeline.](https://arxiv.org/abs/2101.04922)_ <br/>
+1. _[ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning.](https://arxiv.org/pdf/2104.08350.pdf)_ <br/>
+**Rujun Han**, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth and Nanyun Peng. _**EMNLP 2021**_
+
+2. _[ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning.](https://arxiv.org/abs/2012.15283)_ <br/>
+**Rujun Han**, Xiang Ren and Nanyun Peng. _**EMNLP 2021**_
+
+3. _[EventPlus: A Temporal Event Understanding Pipeline.](https://arxiv.org/abs/2101.04922)_ <br/>
 Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, **Rujun Han**, Nanyun Peng. _**NAACL 2021 Demostrations Track**_
 
-2. _[Modeling Context in Answer Sentence Selection Systems on a Latency Budget.](https://arxiv.org/abs/2101.12093)_ <br/>
+4. _[Modeling Context in Answer Sentence Selection Systems on a Latency Budget.](https://arxiv.org/abs/2101.12093)_ <br/>
 **Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL 2021**_
 
-3. _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
+5. _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
 Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang. _**AAAI 2021**_ [acceptance rate: 21.0%]
 
 <h3>2020</h3>
