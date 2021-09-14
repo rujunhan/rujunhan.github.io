@@ -5,7 +5,7 @@ published: true
 ---
 
 
-I am a computer science Ph.D. candidate at University of Southern California. I've passed my thesis proposal, and I'm now finishing the final-year of the program. I work on natural language processing and applied machine learning, advised by Prof. Nanyun Peng ([Plus Lab](https://vnpeng.net/)) and Prof. Aram Galstyan at the Information Sciences Institute (_[ISI](https://www.isi.edu/people/galstyan/about)_).
+I am a final-year computer science Ph.D. candidate at University of Southern California. I work on natural language processing and applied machine learning, advised by Prof. Nanyun Peng ([Plus Lab](https://vnpeng.net/)) and Prof. Aram Galstyan at the Information Sciences Institute (_[ISI](https://www.isi.edu/people/galstyan/about)_).
 
 I am broadly interested in a variety of machine learning and AI research problems. My current work focuses on creating novel machine learning models for event-centric reasoning with applications in information extraction, question answering and language generation.
 
