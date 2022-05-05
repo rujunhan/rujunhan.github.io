@@ -1,5 +1,12 @@
 <h2>Publications</h2>
 
+
+<h3>2022</h3>
+
+1. _[Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts](https://arxiv.org/abs/2205.01898)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/flashback_gen) <br/> 
+**Rujun Han**, Hong Chen, Yufei Tian and Nanyun Peng. _**NAACL 2022**_ 
+
+
 <h3>2021</h3>
 
 1. _[ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning.](https://arxiv.org/pdf/2104.08350.pdf)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/ESTER) <br/> 
