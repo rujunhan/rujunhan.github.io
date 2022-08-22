@@ -50,5 +50,5 @@ Alyssa Wise, Sameen Reza and <ins>**Rujun Han**</ins>. _**ICLS 2020**_
 
 <h3>2018</h3>
 
-1. _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
+- _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
 <ins>**Rujun Han**</ins>, Michael Gill, Arthur Spirling and Kyunghyun Cho. _**EMNLP 2018**_ [acceptance rate (short): 23.2%]
