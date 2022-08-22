@@ -1,13 +1,16 @@
 Here is a brief summary of my CV. You may contact me via LinkedIn for a detailed copy.
 
 ### Education
-- **Ph.D. in Computer Science**,   _University of Southern California_, 08/2018 -- present <br/>
+- **Ph.D. in Computer Science**,   _University of Southern California_, 08/2018 -- 06/2022 <br/>
 - **M.Sc. in Computer Science**,   _University of Southern California_,   08/2018 -- 12/2020 <br/>
 - **M.Sc. in Data Science**, _New York University_, 09/2015 -- 05/2018
 - **B.A in Economics and Math**, _Hamilton College_, 08/2010 -- 12/2014
 
 
 ### Work Experience
+- **Applied Scientist II**,     _Amazon Web Services_,         06/2022 -- present <br/>
+Working on open-domain search and QA at AWS AI Lab..
+
 - **Applied Scientist Intern**,     _Amazon Alexa_,         05/2020 -- 08/2020 <br/>
 Worked in Alexa web-based QA team under the supervision of _[Alessandro Moschitti](https://www.linkedin.com/in/alessandro-moschitti-10999a4/)_.
 
