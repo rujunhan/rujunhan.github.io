@@ -9,7 +9,7 @@ Here is a brief summary of my CV. You may contact me via LinkedIn for a detailed
 
 ### Work Experience
 - **Applied Scientist II**,     _Amazon Web Services_,         06/2022 -- present <br/>
-Working on open-domain search and QA at AWS AI Lab..
+Working on open-domain search and QA at AWS AI Lab.
 
 - **Applied Scientist Intern**,     _Amazon Alexa_,         05/2020 -- 08/2020 <br/>
 Worked in Alexa web-based QA team under the supervision of _[Alessandro Moschitti](https://www.linkedin.com/in/alessandro-moschitti-10999a4/)_.
