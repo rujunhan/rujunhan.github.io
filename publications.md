@@ -3,7 +3,7 @@
 
 <h3>2022</h3>
 
-- [Event-centric Reasoning with Neuro-Symbolic Networks and Knowledge Incorporation](https://digitallibrary.usc.edu/asset-management/2A3BF1QKYMJLA) <ins>**Rujun Han**</ins> _**Ph.D. Thesis**_
+- [Event-centric Reasoning with Neuro-Symbolic Networks and Knowledge Incorporation](https://digitallibrary.usc.edu/asset-management/2A3BF1QKYMJLA) <ins>**Rujun Han**</ins>. _**Ph.D. Thesis**_
 
 - _[Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts](https://arxiv.org/abs/2205.01898)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/flashback_gen) <br/> 
 <ins>**Rujun Han**</ins>, Hong Chen, Yufei Tian and Nanyun Peng. _**NAACL 2022**_ 
