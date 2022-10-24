@@ -3,7 +3,7 @@
 
 <h3>2022</h3>
 
-- _[Event-centric Reasoning with Neuro-Symbolic Networks and Knowledge Incorporation.](https://digitallibrary.usc.edu/asset-management/2A3BF1QKYMJLA)_ <ins>**Rujun Han**</ins>. _**Ph.D. Thesis**_
+- _[Event-centric Reasoning with Neuro-Symbolic Networks and Knowledge Incorporation.](https://digitallibrary.usc.edu/asset-management/2A3BF1QKYMJLA)_ <br/> <ins>**Rujun Han**</ins>. _**Ph.D. Thesis**_
 
 - _[Character-centric Story Visualization via Visual Planning and Token Alignment.](https://arxiv.org/abs/2210.08465)_ [<span style="color:brown;">[Code]</span>](https://github.com/sairin1202/VP-CSV) <br/> 
 Hong Chen, <ins>**Rujun Han**</ins>, Te-Lin Wu, Hideki Nakayama and Nanyun Peng. _**EMNLP 2022**_ (to appear)
