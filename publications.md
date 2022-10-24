@@ -5,7 +5,7 @@
 
 - [Event-centric Reasoning with Neuro-Symbolic Networks and Knowledge Incorporation.](https://digitallibrary.usc.edu/asset-management/2A3BF1QKYMJLA) <ins>**Rujun Han**</ins>. _**Ph.D. Thesis**_
 
-- Character-centric Story Visualization via Visual Planning and Token Alignment.  <br/> 
+- [Character-centric Story Visualization via Visual Planning and Token Alignment.](https://arxiv.org/abs/2210.08465)_ [<span style="color:brown;">[Code]</span>]([https://github.com/PlusLabNLP/flashback_gen](https://github.com/sairin1202/VP-CSV)) <br/> 
 Hong Chen, <ins>**Rujun Han**</ins>, Te-Lin Wu, Hideki Nakayama and Nanyun Peng. _**EMNLP 2022**_ (to appear)
 
 - _[Go Back in Time: Generating Flashbacks in Stories with Event Temporal Prompts](https://arxiv.org/abs/2205.01898)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/flashback_gen) <br/> 
