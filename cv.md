@@ -29,4 +29,4 @@ Built a ticket categorization pipeline and resolution recommendation model using
 
 - **Analyst Intern**,     _Chalkstream Capital_,         09/2014 -- 12/2014 <br/>
 
-- **Analyst Intern**,     _NERA Economic Consultinig_,         05/2014 -- 08/2014 <br/>
+- **Analyst Intern**,     _NERA Economic Consulting_,         05/2014 -- 08/2014 <br/>
