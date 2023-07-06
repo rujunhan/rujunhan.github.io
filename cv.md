@@ -7,7 +7,7 @@ Here is a brief summary of my CV. You may contact me via LinkedIn for a detailed
 - **B.A in Economics and Math**, _Hamilton College_, 08/2010 -- 12/2014
 
 
-### Full-time Work Experience
+### Work Experience
 - **Applied Scientist II**,     _Amazon Web Services_,         06/2022 -- present <br/>
 Working on open-domain search and QA at AWS AI Labs.
 
