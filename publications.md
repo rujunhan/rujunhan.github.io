@@ -1,11 +1,11 @@
 <h2>Publications</h2>
 
 
-- _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.]_(https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering) <br/> 
-<ins>**Rujun Han**</ins>, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL 2023 Findings**_ (to appear)
+- _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ <br/> 
+<ins>**Rujun Han**</ins>, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL 2023 Findings**_
 
-- _[ACCENT: An Automatic Event Commonsense Evaluation Metric for Open-Domain Dialogue Systems.]_(https://arxiv.org/abs/2305.07797) <br/> 
-Sarik Ghazarian*, Yijia Shao*, <ins>**Rujun Han**</ins>, Aram Galstyan, Nanyun Peng. _**ACL 2023**_ (to appear)
+- _[ACCENT: An Automatic Event Commonsense Evaluation Metric for Open-Domain Dialogue Systems.](https://arxiv.org/abs/2305.07797)_ <br/> 
+Sarik Ghazarian*, Yijia Shao*, <ins>**Rujun Han**</ins>, Aram Galstyan, Nanyun Peng. _**ACL 2023**_
 
 - _[Event-centric Reasoning with Neuro-Symbolic Networks and Knowledge Incorporation.](https://digitallibrary.usc.edu/asset-management/2A3BF1QKYMJLA)_ <br/> <ins>**Rujun Han**</ins>. _**Ph.D. Thesis**_
 
