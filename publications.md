@@ -3,7 +3,7 @@
 - _[RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering.](https://arxiv.org/abs/2407.13998)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/rag-qa-arena) <br/> 
 <ins>**Rujun Han**</ins>, Yuhao Zhang, Peng Qi, Yumo Xu, Jenyuan Wang, Lan Liu, William Yang Wang, Bonan Min, Vittorio Castelli. _**EMNLP-2024 main conference**_
 
-- _[Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models.](https://arxiv.org/abs/2407.21417)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
+- _[Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models.](https://arxiv.org/abs/2407.21417)_ [<span style="color:brown;">[Code]</span>](https://github.com/frankaging/dancing-in-chains) <br/> 
 Zhengxuan Wu, Yuhao Zhang, Peng Qi, Yumo Xu, <ins>**Rujun Han**</ins>, Yian Zhang, Jifan Chen, Bonan Min, Zhiheng Huang. _**EMNLP-2024 main conference**_
 
 - _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
