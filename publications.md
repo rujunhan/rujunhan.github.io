@@ -1,7 +1,12 @@
 <h2>Publications</h2>
 
+- _[RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering.](https://arxiv.org/abs/2407.13998)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/rag-qa-arena) <br/> 
+<ins>**Rujun Han**</ins>, Yuhao Zhang, Peng Qi, Yumo Xu, Jenyuan Wang, Lan Liu, William Yang Wang, Bonan Min, Vittorio Castelli. _**EMNLP-2024 main conference**_
 
-- _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ <br/> 
+- _[Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models.](https://arxiv.org/abs/2407.21417)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
+Zhengxuan Wu, Yuhao Zhang, Peng Qi, Yumo Xu, <ins>**Rujun Han**</ins>, Yian Zhang, Jifan Chen, Bonan Min, Zhiheng Huang. _**EMNLP-2024 main conference**_
+
+- _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
 <ins>**Rujun Han**</ins>, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL 2023 Findings**_
 
 - _[ACCENT: An Automatic Event Commonsense Evaluation Metric for Open-Domain Dialogue Systems.](https://arxiv.org/abs/2305.07797)_ <br/> 
