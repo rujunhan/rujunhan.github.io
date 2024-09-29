@@ -1,3 +1,5 @@
+Here is a summary of my CV. Please reach out via LinkedIn for more information.
+
 ### Work Experience
 - **Research Scientist**,     _Google_,         06/2024 -- present <br/>
 Working on RAG, LLM Distillation, and alignment.
