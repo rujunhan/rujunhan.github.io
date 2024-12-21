@@ -6,6 +6,12 @@
 - _[Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models.](https://arxiv.org/abs/2407.21417)_ [<span style="color:brown;">[Code]</span>](https://github.com/frankaging/dancing-in-chains) <br/> 
 Zhengxuan Wu, Yuhao Zhang, Peng Qi, Yumo Xu, <ins>**Rujun Han**</ins>, Yian Zhang, Jifan Chen, Bonan Min, Zhiheng Huang. _**EMNLP-2024 main conference**_
 
+- _[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling.](https://arxiv.org/abs/2410.11325)_
+Wenda Xu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**under submission**_
+
+- _[Reverse Thinking Makes LLMs Stronger Reasoners.](https://arxiv.org/abs/2411.19865)_
+Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, Rujun Han, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister. _**under submission**_
+
 - _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
 <ins>**Rujun Han**</ins>, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL 2023 Findings**_
 
