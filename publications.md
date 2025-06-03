@@ -1,10 +1,10 @@
 <h2>Publications</h2>
 
 - _[CiteEval: Principle-Driven Citation Evaluation for Source Attribution](https://arxiv.org/pdf/2506.01829)_ <br/>
-Yumo Xu, Peng Qi, Jifan Chen, Kunlun Liu, <ins>**Rujun Han**</ins>, Lan Liu, Bonan Min, Vittorio Castelli, Arshit Gupta, Zhiguo Wang
+Yumo Xu, Peng Qi, Jifan Chen, Kunlun Liu, <ins>**Rujun Han**</ins>, Lan Liu, Bonan Min, Vittorio Castelli, Arshit Gupta, Zhiguo Wang. _**ACL'25**_
 
 - _[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents.](https://arxiv.org/abs/2503.08026)_ <br/>
-Zhen Tan, Jun Yan, I-Hung Hsu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister.  _**under review**_
+Zhen Tan, Jun Yan, I-Hung Hsu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister.  _**ACL'25**_
 
 - _[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling.](https://arxiv.org/abs/2410.11325)_ <br/>
 Wenda Xu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**ICLR'25**_
