@@ -1,16 +1,22 @@
 <h2>Publications</h2>
 
+- _[Deep Researcher with Test-Time Diffusion.](https://www.arxiv.org/pdf/2507.16075)_ <br/>
+<ins>**Rujun Han**</ins>*, Yanfei Chen*, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee.
+
+- _[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling.](https://arxiv.org/abs/2410.11325)_ <br/>
+Wenda Xu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**ICLR'25**_
+
 - _[CiteEval: Principle-Driven Citation Evaluation for Source Attribution](https://arxiv.org/pdf/2506.01829)_ <br/>
 Yumo Xu, Peng Qi, Jifan Chen, Kunlun Liu, <ins>**Rujun Han**</ins>, Lan Liu, Bonan Min, Vittorio Castelli, Arshit Gupta, Zhiguo Wang. _**ACL'25**_
 
 - _[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents.](https://arxiv.org/abs/2503.08026)_ <br/>
 Zhen Tan, Jun Yan, I-Hung Hsu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister.  _**ACL'25**_
 
-- _[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling.](https://arxiv.org/abs/2410.11325)_ <br/>
-Wenda Xu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**ICLR'25**_
-
 - _[Reverse Thinking Makes LLMs Stronger Reasoners.](https://arxiv.org/abs/2411.19865)_ <br/>
 Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, <ins>**Rujun Han**</ins>, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister. _**NAACL'25**_
+
+- _[Towards Compute-Optimal Many-Shot In-Context Learning.](https://arxiv.org/pdf/2507.16217) <br/>
+Shahriar Golchin, Yanfei Chen, <ins>**Rujun Han**</ins>, Manan Gandhi, Tianli Yu, Swaroop Mishra, Mihai Surdeanu, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**COLM'25**_
 
 - _[RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering.](https://arxiv.org/abs/2407.13998)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/rag-qa-arena) <br/> 
 <ins>**Rujun Han**</ins>, Yuhao Zhang, Peng Qi, Yumo Xu, Jenyuan Wang, Lan Liu, William Yang Wang, Bonan Min, Vittorio Castelli. _**EMNLP'24 main**_
