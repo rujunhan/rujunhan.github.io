@@ -15,7 +15,7 @@ Zhen Tan, Jun Yan, I-Hung Hsu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le
 - _[Reverse Thinking Makes LLMs Stronger Reasoners.](https://arxiv.org/abs/2411.19865)_ <br/>
 Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, <ins>**Rujun Han**</ins>, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister. _**NAACL'25**_
 
-- _[Towards Compute-Optimal Many-Shot In-Context Learning.](https://arxiv.org/pdf/2507.16217) <br/>
+- _[Towards Compute-Optimal Many-Shot In-Context Learning.](https://arxiv.org/pdf/2507.16217)_ <br/>
 Shahriar Golchin, Yanfei Chen, <ins>**Rujun Han**</ins>, Manan Gandhi, Tianli Yu, Swaroop Mishra, Mihai Surdeanu, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**COLM'25**_
 
 - _[RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering.](https://arxiv.org/abs/2407.13998)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/rag-qa-arena) <br/> 
