@@ -1,7 +1,7 @@
 <h2>Publications</h2>
 
 - _[Deep Researcher with Test-Time Diffusion.](https://www.arxiv.org/pdf/2507.16075)_ <br/>
-<ins>**Rujun Han**</ins>*, Yanfei Chen*, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee.
+<ins>**Rujun Han**</ins>\*, Yanfei Chen\*, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee.
 
 - _[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling.](https://arxiv.org/abs/2410.11325)_ <br/>
 Wenda Xu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**ICLR'25**_
