@@ -6,6 +6,12 @@
 - _[Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling.](https://arxiv.org/abs/2410.11325)_ <br/>
 Wenda Xu, <ins>**Rujun Han**</ins>, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**ICLR'25**_
 
+- _[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory.](https://arxiv.org/abs/2509.25140)_ <br/>
+Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, <ins>**Rujun Han</ins>, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister
+
+- _[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context](https://arxiv.org/abs/2510.08790)_ <br/>
+Guangya Wan, Mingyang Ling, Xiaoqi Ren, <ins>**Rujun Han</ins>, Sheng Li, Zizhao Zhang
+
 - _[CiteEval: Principle-Driven Citation Evaluation for Source Attribution](https://arxiv.org/pdf/2506.01829)_ <br/>
 Yumo Xu, Peng Qi, Jifan Chen, Kunlun Liu, <ins>**Rujun Han**</ins>, Lan Liu, Bonan Min, Vittorio Castelli, Arshit Gupta, Zhiguo Wang. _**ACL'25**_
 
