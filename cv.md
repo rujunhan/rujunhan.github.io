@@ -2,7 +2,7 @@ Here is a summary of my CV. Please reach out via LinkedIn for more information.
 
 ### Work Experience
 - **Senior Research Scientist**,     _Google_,         06/2024 -- present <br/>
-Working on LLM Distillation, Agent and RAG.
+Working on Agents and LLM post-training.
 
 - **Applied Scientist**,     _Amazon Web Services_,         06/2022 -- 06/2024 <br/>
 Led research on open-domain search and QA at AWS AI Labs.
