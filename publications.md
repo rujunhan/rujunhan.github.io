@@ -5,7 +5,7 @@
 
 - _[Deep Researcher with Test-Time Diffusion.](https://www.arxiv.org/pdf/2507.16075)_ <br/>
 **Rujun Han**\*, Yanfei Chen\*, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee.
-- _[SAGE: Steerable Agentic Data Generation for Deep Search Agents with Execution Feedback.](https://arxiv.org/abs/2601.18202)_ <br/>
+- _[SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback.](https://arxiv.org/abs/2601.18202)_ <br/>
 Fangyuan Xu, **Rujun Han**, Yanfei Chen, Zifeng Wang, I-Hung Hsu, Jun Yan, Vishy Tirumalashetty, Eunsol Choi, Tomas Pfister, Chen-Yu Lee. _**EACL'26 Findings**_
 - _[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory.](https://arxiv.org/abs/2509.25140)_ <br/>
 Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, **Rujun Han**, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister. _**ICLR'26**_
