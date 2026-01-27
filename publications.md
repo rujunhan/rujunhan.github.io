@@ -1,6 +1,6 @@
 <h2>Publications</h2>
 
-
+<br/>
 <h4>Agents: deep research, memory, context management</h4>
 
 - _[Deep Researcher with Test-Time Diffusion.](https://www.arxiv.org/pdf/2507.16075)_ <br/>
@@ -17,7 +17,7 @@ Guangya Wan, Mingyang Ling, Xiaoqi Ren, **Rujun Han**, Sheng Li, Zizhao Zhang
 Tengxiao Liu, Zifeng Wang, Jin Miao, I-Hung Hsu, Jun Yan, Jiefeng Chen, **Rujun Han**, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee.
 
 
-
+<br/>
 <h4>LLM Post-training: distillation, RL</h4>
 
 - _[Supervised reinforcement learning: From expert trajectories to step-wise reasoning.](https://arxiv.org/abs/2510.25992)_ <br/>
@@ -28,7 +28,7 @@ Wenda Xu, **Rujun Han**, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William 
 Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, **Rujun Han**, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister. _**NAACL'25**_
 
 
-
+<br/>
 <h4>RAG</h4>
 
 - _[CiteEval: Principle-Driven Citation Evaluation for Source Attribution](https://arxiv.org/pdf/2506.01829)_ <br/>
@@ -41,7 +41,7 @@ Zhengxuan Wu, Yuhao Zhang, Peng Qi, Yumo Xu, **Rujun Han**, Yian Zhang, Jifan Ch
 **Rujun Han**, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL'23 Findings**_
 
 
-
+<br/>
 <h4>Other Prior Work</h4>
 
 - _[Towards Compute-Optimal Many-Shot In-Context Learning.](https://arxiv.org/pdf/2507.16217)_ <br/>
