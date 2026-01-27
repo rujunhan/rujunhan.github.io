@@ -17,6 +17,7 @@ Guangya Wan, Mingyang Ling, Xiaoqi Ren, **Rujun Han**, Sheng Li, Zizhao Zhang
 Tengxiao Liu, Zifeng Wang, Jin Miao, I-Hung Hsu, Jun Yan, Jiefeng Chen, **Rujun Han**, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee.
 
 
+
 <h4>LLM Post-training: distillation, RL</h4>
 
 - _[Supervised reinforcement learning: From expert trajectories to step-wise reasoning.](https://arxiv.org/abs/2510.25992)_ <br/>
@@ -25,6 +26,7 @@ Yihe Deng, I-Hung, Jun Yan, Zifeng Wang, **Rujun Han**, Gufeng Zhang, Yanfei Che
 Wenda Xu, **Rujun Han**, Zifeng Wang, Long T. Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister. _**ICLR'25**_
 - _[Reverse Thinking Makes LLMs Stronger Reasoners.](https://arxiv.org/abs/2411.19865)_ <br/>
 Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, **Rujun Han**, Sayna Ebrahimi, Long Le, Vincent Perot, Swaroop Mishra, Mohit Bansal, Chen-Yu Lee, Tomas Pfister. _**NAACL'25**_
+
 
 
 <h4>RAG</h4>
@@ -37,6 +39,7 @@ Yumo Xu, Peng Qi, Jifan Chen, Kunlun Liu, **Rujun Han**, Lan Liu, Bonan Min, Vit
 Zhengxuan Wu, Yuhao Zhang, Peng Qi, Yumo Xu, **Rujun Han**, Yian Zhang, Jifan Chen, Bonan Min, Zhiheng Huang. _**EMNLP'24 main**_
 - _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering.](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
 **Rujun Han**, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL'23 Findings**_
+
 
 
 <h4>Other Prior Work</h4>
