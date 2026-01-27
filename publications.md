@@ -1,6 +1,5 @@
 <h2>Publications</h2>
 
-<br/>
 
 <h4>Agents: deep research, memory, context management</h4>
 
