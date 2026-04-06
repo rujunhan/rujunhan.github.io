@@ -9,10 +9,10 @@
 Fangyuan Xu, **Rujun Han**, Yanfei Chen, Zifeng Wang, I-Hung Hsu, Jun Yan, Vishy Tirumalashetty, Eunsol Choi, Tomas Pfister, Chen-Yu Lee. _**EACL'26 Findings**_
 - _[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory.](https://arxiv.org/abs/2509.25140)_ <br/>
 Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, **Rujun Han**, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister. _**ICLR'26**_
+- _[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context.](https://arxiv.org/abs/2510.08790)_ <br/>
+Guangya Wan, Mingyang Ling, Xiaoqi Ren, **Rujun Han**, Sheng Li, Zizhao Zhang. _**ACL'26**_
 - _[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents.](https://arxiv.org/abs/2503.08026)_ <br/>
 Zhen Tan, Jun Yan, I-Hung Hsu, **Rujun Han**, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister.  _**ACL'25**_
-- _[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context.](https://arxiv.org/abs/2510.08790)_ <br/>
-Guangya Wan, Mingyang Ling, Xiaoqi Ren, **Rujun Han**, Sheng Li, Zizhao Zhang
 - _[Budget-Aware Tool-Use Enables Effective Agent Scaling.](https://arxiv.org/abs/2511.17006)_ <br/>
 Tengxiao Liu, Zifeng Wang, Jin Miao, I-Hung Hsu, Jun Yan, Jiefeng Chen, **Rujun Han**, Fangyuan Xu, Yanfei Chen, Ke Jiang, Samira Daruki, Yi Liang, William Yang Wang, Tomas Pfister, Chen-Yu Lee.
 
