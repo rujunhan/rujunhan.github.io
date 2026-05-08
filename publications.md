@@ -11,7 +11,7 @@ Fangyuan Xu, **Rujun Han**, Yanfei Chen, Zifeng Wang, I-Hung Hsu, Jun Yan, Vishy
 Siru Ouyang, Jun Yan, Yanfei Chen, **Rujun Han**, Zifeng Wang, Bhavana Dalvi Mishra, Rui Meng, Chun-Liang Li, Yizhu Jiao, Kaiwen Zha, Maohao Shen, Vishy Tirumalashetty, George Lee, Jiawei Han, Tomas Pfister, Chen-Yu Lee
 - _[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)_ <br/>
 Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, **Rujun Han**, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister. _**ICLR'26**_
-- _[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context.](https://arxiv.org/abs/2510.08790)_ <br/>
+- _[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context](https://arxiv.org/abs/2510.08790)_ <br/>
 Guangya Wan, Mingyang Ling, Xiaoqi Ren, **Rujun Han**, Sheng Li, Zizhao Zhang. _**ACL'26**_
 - _[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents](https://arxiv.org/abs/2503.08026)_ <br/>
 Zhen Tan, Jun Yan, I-Hung Hsu, **Rujun Han**, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister.  _**ACL'25**_
@@ -71,11 +71,11 @@ Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun
 Qiang Ning, Hao Wu, **Rujun Han**, Nanyun Peng, Matt Gardner and Dan Roth. _**EMNLP'20**_ [acceptance rate: 22.4%]
 - _[Becoming a Dentist: Tracing Professional Identity Development Through Mixed Methods Data Mining of Student Reflections](https://repository.isls.org/handle/1/6650)_ <br/>
 Alyssa Wise, Sameen Reza and **Rujun Han**. _**ICLS'20**_
-- _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction.](https://www.aclweb.org/anthology/D19-1041)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
+- _[Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://www.aclweb.org/anthology/D19-1041)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/EMNLP-2019) <br/> 
 **Rujun Han**, Qiang Ning and Nanyun Peng. _**EMNLP'19**_ [acceptance rate: 23.8%]
 - _[Deep Structured Neural Network for Event Temporal Relation Extraction](https://www.aclweb.org/anthology/K19-1062)_ <br/>
 **Rujun Han**, I-Hung Hsu, Mu Yang, Aram Galstyan, Ralph Weischedel and Nanyun Peng. _**CoNLL'19**_ [acceptance rate: 22.7%]
 - _[Contextualized Word Embeddings Enhanced Event Temporal Relation Extraction for Story Understanding](https://arxiv.org/abs/1904.11942)_ <br/>
 **Rujun Han**, Mengyue Liang, Bashar Alhafni and Nanyun Peng. _**NAACL'19 Workshop on Narrative Understanding**_
-- _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)._ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
+- _[Conditional Word Embedding and Hypothesis Testing via Bayes-by-Backprop](http://aclweb.org/anthology/D18-1527)_ [<span style="color:brown;">[Code]</span>](https://github.com/rujunhan/ConditionalEmbeddings) <br/>
 **Rujun Han**, Michael Gill, Arthur Spirling and Kyunghyun Cho. _**EMNLP'18**_ [acceptance rate (short): 23.2%]
