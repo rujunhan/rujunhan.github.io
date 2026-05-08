@@ -37,7 +37,7 @@ Justin Chih-Yao Chen, Zifeng Wang, Hamid Palangi, **Rujun Han**, Sayna Ebrahimi,
 Yumo Xu, Peng Qi, Jifan Chen, Kunlun Liu, **Rujun Han**, Lan Liu, Bonan Min, Vittorio Castelli, Arshit Gupta, Zhiguo Wang. _**ACL'25**_
 - _[RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering](https://arxiv.org/abs/2407.13998)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/rag-qa-arena) <br/> 
 **Rujun Han**, Yuhao Zhang, Peng Qi, Yumo Xu, Jenyuan Wang, Lan Liu, William Yang Wang, Bonan Min, Vittorio Castelli. _**EMNLP'24 main**_
-- _[Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models.](https://arxiv.org/abs/2407.21417)_ [<span style="color:brown;">[Code]</span>](https://github.com/frankaging/dancing-in-chains) <br/> 
+- _[Dancing in Chains: Reconciling Instruction Following and Faithfulness in Language Models](https://arxiv.org/abs/2407.21417)_ [<span style="color:brown;">[Code]</span>](https://github.com/frankaging/dancing-in-chains) <br/> 
 Zhengxuan Wu, Yuhao Zhang, Peng Qi, Yumo Xu, **Rujun Han**, Yian Zhang, Jifan Chen, Bonan Min, Zhiheng Huang. _**EMNLP'24 main**_
 - _[RobustQA: Benchmarking the Robustness of Domain Adaptation for Open-Domain Question Answering](https://www.amazon.science/publications/robustqa-benchmarking-the-robustness-of-domain-adaptation-for-open-domain-question-answering)_ [<span style="color:brown;">[Code]</span>](https://github.com/awslabs/robustqa-acl23) <br/> 
 **Rujun Han**, Peng Qi, Yuhao Zhang, Lan Liu, Juliette Burger, William Yang Wang, Zhiheng Huang, Bing Xiang and Dan Roth. _**ACL'23 Findings**_
@@ -57,11 +57,11 @@ Hong Chen, **Rujun Han**, Te-Lin Wu, Hideki Nakayama and Nanyun Peng. _**EMNLP'2
 **Rujun Han**, Hong Chen, Yufei Tian and Nanyun Peng. _**NAACL'22**_ 
 - _[ESTER: A Machine Reading Comprehension Dataset for Event Semantic Relation Reasoning](https://arxiv.org/pdf/2104.08350.pdf)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/ESTER) <br/> 
 **Rujun Han**, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth and Nanyun Peng. _**EMNLP'21**_ 
-- _[ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning.](https://arxiv.org/abs/2012.15283)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/ECONET) <br/> 
+- _[ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning](https://arxiv.org/abs/2012.15283)_ [<span style="color:brown;">[Code]</span>](https://github.com/PlusLabNLP/ECONET) <br/> 
 **Rujun Han**, Xiang Ren and Nanyun Peng. _**EMNLP'21**_
 - _[EventPlus: A Temporal Event Understanding Pipeline](https://arxiv.org/abs/2101.04922)_ <br/>
 Mingyu Derek Ma, Jiao Sun, Mu Yang, Kung-Hsiang Huang, Nuan Wen, Shikhar Singh, **Rujun Han**, Nanyun Peng. _**NAACL'21 Demostrations Track**_
-- _[Modeling Context in Answer Sentence Selection Systems on a Latency Budget.](https://arxiv.org/abs/2101.12093)_ <br/>
+- _[Modeling Context in Answer Sentence Selection Systems on a Latency Budget](https://arxiv.org/abs/2101.12093)_ <br/>
 **Rujun Han**, Luca Soldaini and Alessandro Moschitti. _**EACL'21**_
 - _[Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference](https://arxiv.org/pdf/2012.08790.pdf)_ <br/>
 Yichao Zhou, Yu Yan, **Rujun Han**, J. Harry Caufield, Kai-Wei Chang, Yizhou Sun, Peipei Ping and Wei Wang. _**AAAI'21**_ [acceptance rate: 21.0%]
