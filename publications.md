@@ -7,6 +7,8 @@
 **Rujun Han**\*, Yanfei Chen\*, Zoey CuiZhu, Lesly Miculicich, Guan Sun, Yuanjun Bi, Weiming Wen, Hui Wan, Chunfeng Wen, Solène Maître, George Lee, Vishy Tirumalashetty, Emily Xue, Zizhao Zhang, Salem Haykal, Burak Gokturk, Tomas Pfister, Chen-Yu Lee.
 - _[SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback.](https://arxiv.org/abs/2601.18202)_ <br/>
 Fangyuan Xu, **Rujun Han**, Yanfei Chen, Zifeng Wang, I-Hung Hsu, Jun Yan, Vishy Tirumalashetty, Eunsol Choi, Tomas Pfister, Chen-Yu Lee. _**EACL'26 Findings**_
+- _[SkillOS: Learning Skill Curation for Self-Evolving Agents](https://https://arxiv.org/abs/2605.06614)_ <br/>
+Siru Ouyang, Jun Yan, Yanfei Chen, **Rujun Han**, Zifeng Wang, Bhavana Dalvi Mishra, Rui Meng, Chun-Liang Li, Yizhu Jiao, Kaiwen Zha, Maohao Shen, Vishy Tirumalashetty, George Lee, Jiawei Han, Tomas Pfister, Chen-Yu Lee
 - _[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory.](https://arxiv.org/abs/2509.25140)_ <br/>
 Siru Ouyang, Jun Yan, I-Hung Hsu, Yanfei Chen, Ke Jiang, Zifeng Wang, **Rujun Han**, Long T. Le, Samira Daruki, Xiangru Tang, Vishy Tirumalashetty, George Lee, Mahsan Rofouei, Hangfei Lin, Jiawei Han, Chen-Yu Lee, Tomas Pfister. _**ICLR'26**_
 - _[COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context.](https://arxiv.org/abs/2510.08790)_ <br/>
